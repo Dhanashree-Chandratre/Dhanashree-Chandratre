@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on : **Backend Development**
 <br/>
-🌱 I’m currently learning : **React | Springboot **
+🌱 I’m currently learning : **React | Springboot**
 <br/>
 📫 How to reach me : **ddchandratre@gmail.com**
 
