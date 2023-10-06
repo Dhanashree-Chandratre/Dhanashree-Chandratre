@@ -7,8 +7,10 @@
   alt="Coding-Girl"
 />
 
-- 🔭 I’m currently working on : **Backend Development**
-🌱 I’m currently learning : **React | NodeJS**
+🔭 I’m currently working on : **Backend Development**
+<br/>
+🌱 I’m currently learning : **React | Springboot **
+<br/>
 📫 How to reach me : **ddchandratre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
