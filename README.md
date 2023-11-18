@@ -7,7 +7,7 @@
   alt="Coding-Girl"
 />
 
-🌱 I’m currently learning : **React | Springboot**
+🌱 I’m currently learning : **React | Solidity**
 <br/>
 📫 How to reach me : **ddchandratre@gmail.com**
 
