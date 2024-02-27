@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React|NodeJS**
 
-- 📫 How to reach me **ddchandratre@gmail.com**
+- 📫 How to reach me **dhanashreedc458@gmail.com**
 
 - ⚡ Fun fact **I once debugged a code so intensely that even my coffee went cold. ☕💻**
 
